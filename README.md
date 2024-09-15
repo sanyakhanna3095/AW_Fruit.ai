@@ -15,6 +15,8 @@ This is the frontend application for Fruit.ai, a health management product desig
    cd fruit-ai-frontend
 
 Or run the following command:
+npx-create-react-app Fruit.ai
+npm install react react-dom react-router-dom
 
 
 
